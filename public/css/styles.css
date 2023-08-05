@@ -1,0 +1,123 @@
+.button-login{
+    background-color: #4e0070;
+    border-radius: 10px;
+    color: white;
+    width: 50%;
+    margin: 0 25%;
+}
+.button-login:hover{
+    background-color: #6d009d;
+    color: white;
+}
+.button-default{
+    background-color: #4e0070;
+    border-radius: 10px;
+    color: white;
+}
+.button-default:hover{
+    background-color: #6d009d;
+    color: white;
+}
+.cancel-button{
+    background-color: #6c757d;
+    border-radius: 10px;
+    color: white;
+}
+.cancel-button:hover{
+    background-color: #5c636a;
+    color: white;
+}
+.rounded-button{
+    background-color: #4e0070;
+    color: white;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border: none;
+    font-size: 35px;
+    font-weight: 100;
+    padding-bottom: 10px;
+}
+.rounded-button:hover{
+    background-color: white;
+    color: black;
+}
+.adicion{
+    padding-top: 50%;
+    padding-bottom: 50%;
+}
+#login {
+    background: linear-gradient(120deg, #4c79d3 44.9%, white 45%) no-repeat fixed;
+}
+.frases{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.coins{
+    position: absolute;
+    bottom: 100px;
+}
+.link{
+    color: #4e0070;
+    cursor: pointer;
+}
+.link:hover{
+    color: #6d009d;
+}
+#home {
+    background: linear-gradient(120deg, white 44.9%, #4c79d3 45%) no-repeat fixed;
+}
+header{
+    border-bottom: 1px solid #bebcbc;
+    padding: 5px;
+    background-color: white;
+}
+.home-btn{
+    color: #4c79d3;
+}
+.default-icon{
+    color: black;
+}
+.default-icon:hover{
+    color: #4c79d3;
+}
+.coin-icon{
+    color: #4e0070;
+}
+.icon-detail{
+    font-size: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.transactions-icon{
+    color: #4c79d3;
+}
+.transactions-icon:hover{
+    color: #1858ca;
+}
+.purple-color{
+    color: #4e0070;
+}
+.info{
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+    padding: 20px 0px 0px;
+}
+.frase-default{
+    font-size: 18px;
+    font-weight: 600;
+}
+.fixed{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.logout{
+    min-width: 5rem !important;
+}
+
+.menu{
+    margin-right: 20px;
+}
